@@ -1,0 +1,31 @@
+References: Water as a Quasicrystalline Coherence Medium
+
+1. Shechtman, D., Blech, I., Gratias, D., & Cahn, J. W. (1984). Metallic Phase with Long-Range Orientational Order and No Translational Symmetry. Physical Review Letters, 53(20), 1951–1953.
+   - Nobel Prize-winning discovery of quasicrystals. 5-fold symmetry forbidden by 230 space groups.
+
+2. Tokunaga, S., & Yonezawa, F. (2025). Dodecagonal quasicrystal of water in a bilayer. arXiv:2503.01234.
+   - Single-component water bilayer exhibits 12-fold quasicrystalline order under confinement.
+
+3. Hayashida, K., et al. (2007). Colloidal quasicrystals with 12-fold and 18-fold diffraction symmetry. Physical Review E, 76(3), 030401.
+   - Colloidal assemblies in water-based solutions exhibiting forbidden symmetries.
+
+4. Pollack, G. H. (2013). The Fourth Phase of Water: Beyond Solid, Liquid, and Vapor. Ebner and Sons.
+   - Exclusion zone (EZ) water; interfacial water structure; energy absorption.
+
+5. Del Giudice, E., & Preparata, G. (1998). Coherent dynamics in liquid water. In: Macroscopic Quantum Coherence.
+   - Quantum Electrodynamics (QED) of water and formation of coherent domains.
+
+6. Ho, M. W. (2008). The Rainbow and the Worm: The Physics of Organisms. World Scientific.
+   - Liquid crystalline water as basis of biological coherence.
+
+7. Kruger, M. D. L. (2026). Invariant Geometric Universality: A 9D State Matrix Beyond the 230 Space Groups. Zenodo. doi:10.5281/zenodo.20583654.
+   - 9D State Matrix framework; operator-phase coupling; 5-fold symmetry in markets.
+
+8. Turing, A. M. (1952). The Chemical Basis of Morphogenesis. Philosophical Transactions of the Royal Society B, 237(641), 37–72.
+   - Aperiodic pattern formation in biological systems.
+
+9. Feynman, R. P. (1948). Space-Time Approach to Non-Relativistic Quantum Mechanics. Reviews of Modern Physics, 20(2), 367–387.
+   - Path integral formulation; sum over all histories.
+
+10. Schumann, W. O. (1952). Über die strahlungslosen Eigenschwingungen einer leitenden Kugel, die von einer Luftschicht und einer Ionosphärenhülle umgeben ist. Zeitschrift für Naturforschung A, 7(2), 149–154.
+    - Schumann Resonance; Earth's fundamental electromagnetic frequency (~7.83 Hz).
