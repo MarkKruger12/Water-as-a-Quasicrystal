@@ -21,4 +21,4 @@ The peer-reviewed version of this manuscript is permanently archived on Zenodo:
 This project is licensed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) License.
 
 ## Citation
-Kruger, M. D. L. (2026). Water as a Quasicrystal: Empirical Evidence for a 9D State Matrix Beyond the 230 Space Groups. [Insert DOI Link]
+Kruger, M. D. L. (2026). Water as a Quasicrystal: Empirical Evidence for a 9D State Matrix Beyond the 230 Space Groups. nodo.20785839
